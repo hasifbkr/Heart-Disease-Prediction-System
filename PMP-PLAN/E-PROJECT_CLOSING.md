@@ -4,11 +4,11 @@
 ### Closing Checklist
 <br>
 
-#### 1. Customer Acceptance Form <br>
+#### 1.0 Customer Acceptance Form <br>
 ![image](https://user-images.githubusercontent.com/121602283/211958121-1a802763-0130-40a7-b041-d6ad653fa92a.png) <br>
 
 
-#### 2. Lessons Learned Document <br>
+#### 2.0 Lessons Learned Document <br>
 ![image](https://user-images.githubusercontent.com/121602283/211958235-37079596-4dc8-4dfd-8c32-07fbf84d328e.png) <br><br>
 
 #### 3. Final Project Report
@@ -49,7 +49,7 @@ Our Staff will provide support when require, The main work of support provide by
 3)Provides users guidelines
 4)Report information to senior management on monthly basis
 
-#### 6. Close Contract <br>
+#### 6.0 Close Contract <br>
 
 ![image](https://user-images.githubusercontent.com/121602283/211956173-d50e54d3-fa03-4c68-86f0-4d5d7efeef22.png)
 
